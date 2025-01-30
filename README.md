@@ -1,9 +1,10 @@
 ## Hi there 👋
+Hello World !
 
 <!--
 **KancilDev/KancilDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on building a personal website
 - 🌱 I’m currently learning HTML,CSS,Javascript
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: E-mail
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My first programming language was C
--->
+
